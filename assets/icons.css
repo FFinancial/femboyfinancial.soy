@@ -1,0 +1,1374 @@
+.sprite {
+    width: 32px;
+    height: 32px;
+    background-image: url(icons.png);
+}
+
+.s1 {
+    background-position-x: -0px;
+    background-position-y: -0px;
+}
+.s2 {
+    background-position-x: -32px;
+    background-position-y: -0px;
+}
+.s3 {
+    background-position-x: -64px;
+    background-position-y: -0px;
+}
+.s4 {
+    background-position-x: -96px;
+    background-position-y: -0px;
+}
+.s5 {
+    background-position-x: -128px;
+    background-position-y: -0px;
+}
+.s6 {
+    background-position-x: -160px;
+    background-position-y: -0px;
+}
+.s7 {
+    background-position-x: -192px;
+    background-position-y: -0px;
+}
+.s8 {
+    background-position-x: -224px;
+    background-position-y: -0px;
+}
+.s9 {
+    background-position-x: -256px;
+    background-position-y: -0px;
+}
+.s10 {
+    background-position-x: -288px;
+    background-position-y: -0px;
+}
+.s11 {
+    background-position-x: -320px;
+    background-position-y: -0px;
+}
+.s12 {
+    background-position-x: -352px;
+    background-position-y: -0px;
+}
+.s13 {
+    background-position-x: -384px;
+    background-position-y: -0px;
+}
+.s14 {
+    background-position-x: -416px;
+    background-position-y: -0px;
+}
+.s15 {
+    background-position-x: -448px;
+    background-position-y: -0px;
+}
+.s16 {
+    background-position-x: -480px;
+    background-position-y: -0px;
+}
+.s17 {
+    background-position-x: -512px;
+    background-position-y: -0px;
+}
+.s18 {
+    background-position-x: -544px;
+    background-position-y: -0px;
+}
+.s19 {
+    background-position-x: -0px;
+    background-position-y: -32px;
+}
+.s20 {
+    background-position-x: -32px;
+    background-position-y: -32px;
+}
+.s21 {
+    background-position-x: -64px;
+    background-position-y: -32px;
+}
+.s22 {
+    background-position-x: -96px;
+    background-position-y: -32px;
+}
+.s23 {
+    background-position-x: -128px;
+    background-position-y: -32px;
+}
+.s24 {
+    background-position-x: -160px;
+    background-position-y: -32px;
+}
+.s25 {
+    background-position-x: -192px;
+    background-position-y: -32px;
+}
+.s26 {
+    background-position-x: -224px;
+    background-position-y: -32px;
+}
+.s27 {
+    background-position-x: -256px;
+    background-position-y: -32px;
+}
+.s28 {
+    background-position-x: -288px;
+    background-position-y: -32px;
+}
+.s29 {
+    background-position-x: -320px;
+    background-position-y: -32px;
+}
+.s30 {
+    background-position-x: -352px;
+    background-position-y: -32px;
+}
+.s31 {
+    background-position-x: -384px;
+    background-position-y: -32px;
+}
+.s32 {
+    background-position-x: -416px;
+    background-position-y: -32px;
+}
+.s33 {
+    background-position-x: -448px;
+    background-position-y: -32px;
+}
+.s34 {
+    background-position-x: -480px;
+    background-position-y: -32px;
+}
+.s35 {
+    background-position-x: -512px;
+    background-position-y: -32px;
+}
+.s36 {
+    background-position-x: -544px;
+    background-position-y: -32px;
+}
+.s37 {
+    background-position-x: -0px;
+    background-position-y: -64px;
+}
+.s38 {
+    background-position-x: -32px;
+    background-position-y: -64px;
+}
+.s39 {
+    background-position-x: -64px;
+    background-position-y: -64px;
+}
+.s40 {
+    background-position-x: -96px;
+    background-position-y: -64px;
+}
+.s41 {
+    background-position-x: -128px;
+    background-position-y: -64px;
+}
+.s42 {
+    background-position-x: -160px;
+    background-position-y: -64px;
+}
+.s43 {
+    background-position-x: -192px;
+    background-position-y: -64px;
+}
+.s44 {
+    background-position-x: -224px;
+    background-position-y: -64px;
+}
+.s45 {
+    background-position-x: -256px;
+    background-position-y: -64px;
+}
+.s46 {
+    background-position-x: -288px;
+    background-position-y: -64px;
+}
+.s47 {
+    background-position-x: -320px;
+    background-position-y: -64px;
+}
+.s48 {
+    background-position-x: -352px;
+    background-position-y: -64px;
+}
+.s49 {
+    background-position-x: -384px;
+    background-position-y: -64px;
+}
+.s50 {
+    background-position-x: -416px;
+    background-position-y: -64px;
+}
+.s51 {
+    background-position-x: -448px;
+    background-position-y: -64px;
+}
+.s52 {
+    background-position-x: -480px;
+    background-position-y: -64px;
+}
+.s53 {
+    background-position-x: -512px;
+    background-position-y: -64px;
+}
+.s54 {
+    background-position-x: -544px;
+    background-position-y: -64px;
+}
+.s55 {
+    background-position-x: -0px;
+    background-position-y: -96px;
+}
+.s56 {
+    background-position-x: -32px;
+    background-position-y: -96px;
+}
+.s57 {
+    background-position-x: -64px;
+    background-position-y: -96px;
+}
+.s58 {
+    background-position-x: -96px;
+    background-position-y: -96px;
+}
+.s59 {
+    background-position-x: -128px;
+    background-position-y: -96px;
+}
+.s60 {
+    background-position-x: -160px;
+    background-position-y: -96px;
+}
+.s61 {
+    background-position-x: -192px;
+    background-position-y: -96px;
+}
+.s62 {
+    background-position-x: -224px;
+    background-position-y: -96px;
+}
+.s63 {
+    background-position-x: -256px;
+    background-position-y: -96px;
+}
+.s64 {
+    background-position-x: -288px;
+    background-position-y: -96px;
+}
+.s65 {
+    background-position-x: -320px;
+    background-position-y: -96px;
+}
+.s66 {
+    background-position-x: -352px;
+    background-position-y: -96px;
+}
+.s67 {
+    background-position-x: -384px;
+    background-position-y: -96px;
+}
+.s68 {
+    background-position-x: -416px;
+    background-position-y: -96px;
+}
+.s69 {
+    background-position-x: -448px;
+    background-position-y: -96px;
+}
+.s70 {
+    background-position-x: -480px;
+    background-position-y: -96px;
+}
+.s71 {
+    background-position-x: -512px;
+    background-position-y: -96px;
+}
+.s72 {
+    background-position-x: -544px;
+    background-position-y: -96px;
+}
+.s73 {
+    background-position-x: -0px;
+    background-position-y: -128px;
+}
+.s74 {
+    background-position-x: -32px;
+    background-position-y: -128px;
+}
+.s75 {
+    background-position-x: -64px;
+    background-position-y: -128px;
+}
+.s76 {
+    background-position-x: -96px;
+    background-position-y: -128px;
+}
+.s77 {
+    background-position-x: -128px;
+    background-position-y: -128px;
+}
+.s78 {
+    background-position-x: -160px;
+    background-position-y: -128px;
+}
+.s79 {
+    background-position-x: -192px;
+    background-position-y: -128px;
+}
+.s80 {
+    background-position-x: -224px;
+    background-position-y: -128px;
+}
+.s81 {
+    background-position-x: -256px;
+    background-position-y: -128px;
+}
+.s82 {
+    background-position-x: -288px;
+    background-position-y: -128px;
+}
+.s83 {
+    background-position-x: -320px;
+    background-position-y: -128px;
+}
+.s84 {
+    background-position-x: -352px;
+    background-position-y: -128px;
+}
+.s85 {
+    background-position-x: -384px;
+    background-position-y: -128px;
+}
+.s86 {
+    background-position-x: -416px;
+    background-position-y: -128px;
+}
+.s87 {
+    background-position-x: -448px;
+    background-position-y: -128px;
+}
+.s88 {
+    background-position-x: -480px;
+    background-position-y: -128px;
+}
+.s89 {
+    background-position-x: -512px;
+    background-position-y: -128px;
+}
+.s90 {
+    background-position-x: -544px;
+    background-position-y: -128px;
+}
+.s91 {
+    background-position-x: -0px;
+    background-position-y: -160px;
+}
+.s92 {
+    background-position-x: -32px;
+    background-position-y: -160px;
+}
+.s93 {
+    background-position-x: -64px;
+    background-position-y: -160px;
+}
+.s94 {
+    background-position-x: -96px;
+    background-position-y: -160px;
+}
+.s95 {
+    background-position-x: -128px;
+    background-position-y: -160px;
+}
+.s96 {
+    background-position-x: -160px;
+    background-position-y: -160px;
+}
+.s97 {
+    background-position-x: -192px;
+    background-position-y: -160px;
+}
+.s98 {
+    background-position-x: -224px;
+    background-position-y: -160px;
+}
+.s99 {
+    background-position-x: -256px;
+    background-position-y: -160px;
+}
+.s100 {
+    background-position-x: -288px;
+    background-position-y: -160px;
+}
+.s101 {
+    background-position-x: -320px;
+    background-position-y: -160px;
+}
+.s102 {
+    background-position-x: -352px;
+    background-position-y: -160px;
+}
+.s103 {
+    background-position-x: -384px;
+    background-position-y: -160px;
+}
+.s104 {
+    background-position-x: -416px;
+    background-position-y: -160px;
+}
+.s105 {
+    background-position-x: -448px;
+    background-position-y: -160px;
+}
+.s106 {
+    background-position-x: -480px;
+    background-position-y: -160px;
+}
+.s107 {
+    background-position-x: -512px;
+    background-position-y: -160px;
+}
+.s108 {
+    background-position-x: -544px;
+    background-position-y: -160px;
+}
+.s109 {
+    background-position-x: -0px;
+    background-position-y: -192px;
+}
+.s110 {
+    background-position-x: -32px;
+    background-position-y: -192px;
+}
+.s111 {
+    background-position-x: -64px;
+    background-position-y: -192px;
+}
+.s112 {
+    background-position-x: -96px;
+    background-position-y: -192px;
+}
+.s113 {
+    background-position-x: -128px;
+    background-position-y: -192px;
+}
+.s114 {
+    background-position-x: -160px;
+    background-position-y: -192px;
+}
+.s115 {
+    background-position-x: -192px;
+    background-position-y: -192px;
+}
+.s116 {
+    background-position-x: -224px;
+    background-position-y: -192px;
+}
+.s117 {
+    background-position-x: -256px;
+    background-position-y: -192px;
+}
+.s118 {
+    background-position-x: -288px;
+    background-position-y: -192px;
+}
+.s119 {
+    background-position-x: -320px;
+    background-position-y: -192px;
+}
+.s120 {
+    background-position-x: -352px;
+    background-position-y: -192px;
+}
+.s121 {
+    background-position-x: -384px;
+    background-position-y: -192px;
+}
+.s122 {
+    background-position-x: -416px;
+    background-position-y: -192px;
+}
+.s123 {
+    background-position-x: -448px;
+    background-position-y: -192px;
+}
+.s124 {
+    background-position-x: -480px;
+    background-position-y: -192px;
+}
+.s125 {
+    background-position-x: -512px;
+    background-position-y: -192px;
+}
+.s126 {
+    background-position-x: -544px;
+    background-position-y: -192px;
+}
+.s127 {
+    background-position-x: -0px;
+    background-position-y: -224px;
+}
+.s128 {
+    background-position-x: -32px;
+    background-position-y: -224px;
+}
+.s129 {
+    background-position-x: -64px;
+    background-position-y: -224px;
+}
+.s130 {
+    background-position-x: -96px;
+    background-position-y: -224px;
+}
+.s131 {
+    background-position-x: -128px;
+    background-position-y: -224px;
+}
+.s132 {
+    background-position-x: -160px;
+    background-position-y: -224px;
+}
+.s133 {
+    background-position-x: -192px;
+    background-position-y: -224px;
+}
+.s134 {
+    background-position-x: -224px;
+    background-position-y: -224px;
+}
+.s135 {
+    background-position-x: -256px;
+    background-position-y: -224px;
+}
+.s136 {
+    background-position-x: -288px;
+    background-position-y: -224px;
+}
+.s137 {
+    background-position-x: -320px;
+    background-position-y: -224px;
+}
+.s138 {
+    background-position-x: -352px;
+    background-position-y: -224px;
+}
+.s139 {
+    background-position-x: -384px;
+    background-position-y: -224px;
+}
+.s140 {
+    background-position-x: -416px;
+    background-position-y: -224px;
+}
+.s141 {
+    background-position-x: -448px;
+    background-position-y: -224px;
+}
+.s142 {
+    background-position-x: -480px;
+    background-position-y: -224px;
+}
+.s143 {
+    background-position-x: -512px;
+    background-position-y: -224px;
+}
+.s144 {
+    background-position-x: -544px;
+    background-position-y: -224px;
+}
+.s145 {
+    background-position-x: -0px;
+    background-position-y: -256px;
+}
+.s146 {
+    background-position-x: -32px;
+    background-position-y: -256px;
+}
+.s147 {
+    background-position-x: -64px;
+    background-position-y: -256px;
+}
+.s148 {
+    background-position-x: -96px;
+    background-position-y: -256px;
+}
+.s149 {
+    background-position-x: -128px;
+    background-position-y: -256px;
+}
+.s150 {
+    background-position-x: -160px;
+    background-position-y: -256px;
+}
+.s151 {
+    background-position-x: -192px;
+    background-position-y: -256px;
+}
+.s152 {
+    background-position-x: -224px;
+    background-position-y: -256px;
+}
+.s153 {
+    background-position-x: -256px;
+    background-position-y: -256px;
+}
+.s154 {
+    background-position-x: -288px;
+    background-position-y: -256px;
+}
+.s155 {
+    background-position-x: -320px;
+    background-position-y: -256px;
+}
+.s156 {
+    background-position-x: -352px;
+    background-position-y: -256px;
+}
+.s157 {
+    background-position-x: -384px;
+    background-position-y: -256px;
+}
+.s158 {
+    background-position-x: -416px;
+    background-position-y: -256px;
+}
+.s159 {
+    background-position-x: -448px;
+    background-position-y: -256px;
+}
+.s160 {
+    background-position-x: -480px;
+    background-position-y: -256px;
+}
+.s161 {
+    background-position-x: -512px;
+    background-position-y: -256px;
+}
+.s162 {
+    background-position-x: -544px;
+    background-position-y: -256px;
+}
+.s163 {
+    background-position-x: -0px;
+    background-position-y: -288px;
+}
+.s164 {
+    background-position-x: -32px;
+    background-position-y: -288px;
+}
+.s165 {
+    background-position-x: -64px;
+    background-position-y: -288px;
+}
+.s166 {
+    background-position-x: -96px;
+    background-position-y: -288px;
+}
+.s167 {
+    background-position-x: -128px;
+    background-position-y: -288px;
+}
+.s168 {
+    background-position-x: -160px;
+    background-position-y: -288px;
+}
+.s169 {
+    background-position-x: -192px;
+    background-position-y: -288px;
+}
+.s170 {
+    background-position-x: -224px;
+    background-position-y: -288px;
+}
+.s171 {
+    background-position-x: -256px;
+    background-position-y: -288px;
+}
+.s172 {
+    background-position-x: -288px;
+    background-position-y: -288px;
+}
+.s173 {
+    background-position-x: -320px;
+    background-position-y: -288px;
+}
+.s174 {
+    background-position-x: -352px;
+    background-position-y: -288px;
+}
+.s175 {
+    background-position-x: -384px;
+    background-position-y: -288px;
+}
+.s176 {
+    background-position-x: -416px;
+    background-position-y: -288px;
+}
+.s177 {
+    background-position-x: -448px;
+    background-position-y: -288px;
+}
+.s178 {
+    background-position-x: -480px;
+    background-position-y: -288px;
+}
+.s179 {
+    background-position-x: -512px;
+    background-position-y: -288px;
+}
+.s180 {
+    background-position-x: -544px;
+    background-position-y: -288px;
+}
+.s181 {
+    background-position-x: -0px;
+    background-position-y: -320px;
+}
+.s182 {
+    background-position-x: -32px;
+    background-position-y: -320px;
+}
+.s183 {
+    background-position-x: -64px;
+    background-position-y: -320px;
+}
+.s184 {
+    background-position-x: -96px;
+    background-position-y: -320px;
+}
+.s185 {
+    background-position-x: -128px;
+    background-position-y: -320px;
+}
+.s186 {
+    background-position-x: -160px;
+    background-position-y: -320px;
+}
+.s187 {
+    background-position-x: -192px;
+    background-position-y: -320px;
+}
+.s188 {
+    background-position-x: -224px;
+    background-position-y: -320px;
+}
+.s189 {
+    background-position-x: -256px;
+    background-position-y: -320px;
+}
+.s190 {
+    background-position-x: -288px;
+    background-position-y: -320px;
+}
+.s191 {
+    background-position-x: -320px;
+    background-position-y: -320px;
+}
+.s192 {
+    background-position-x: -352px;
+    background-position-y: -320px;
+}
+.s193 {
+    background-position-x: -384px;
+    background-position-y: -320px;
+}
+.s194 {
+    background-position-x: -416px;
+    background-position-y: -320px;
+}
+.s195 {
+    background-position-x: -448px;
+    background-position-y: -320px;
+}
+.s196 {
+    background-position-x: -480px;
+    background-position-y: -320px;
+}
+.s197 {
+    background-position-x: -512px;
+    background-position-y: -320px;
+}
+.s198 {
+    background-position-x: -544px;
+    background-position-y: -320px;
+}
+.s199 {
+    background-position-x: -0px;
+    background-position-y: -352px;
+}
+.s200 {
+    background-position-x: -32px;
+    background-position-y: -352px;
+}
+.s201 {
+    background-position-x: -64px;
+    background-position-y: -352px;
+}
+.s202 {
+    background-position-x: -96px;
+    background-position-y: -352px;
+}
+.s203 {
+    background-position-x: -128px;
+    background-position-y: -352px;
+}
+.s204 {
+    background-position-x: -160px;
+    background-position-y: -352px;
+}
+.s205 {
+    background-position-x: -192px;
+    background-position-y: -352px;
+}
+.s206 {
+    background-position-x: -224px;
+    background-position-y: -352px;
+}
+.s207 {
+    background-position-x: -256px;
+    background-position-y: -352px;
+}
+.s208 {
+    background-position-x: -288px;
+    background-position-y: -352px;
+}
+.s209 {
+    background-position-x: -320px;
+    background-position-y: -352px;
+}
+.s210 {
+    background-position-x: -352px;
+    background-position-y: -352px;
+}
+.s211 {
+    background-position-x: -384px;
+    background-position-y: -352px;
+}
+.s212 {
+    background-position-x: -416px;
+    background-position-y: -352px;
+}
+.s213 {
+    background-position-x: -448px;
+    background-position-y: -352px;
+}
+.s214 {
+    background-position-x: -480px;
+    background-position-y: -352px;
+}
+.s215 {
+    background-position-x: -512px;
+    background-position-y: -352px;
+}
+.s216 {
+    background-position-x: -544px;
+    background-position-y: -352px;
+}
+.s217 {
+    background-position-x: -0px;
+    background-position-y: -384px;
+}
+.s218 {
+    background-position-x: -32px;
+    background-position-y: -384px;
+}
+.s219 {
+    background-position-x: -64px;
+    background-position-y: -384px;
+}
+.s220 {
+    background-position-x: -96px;
+    background-position-y: -384px;
+}
+.s221 {
+    background-position-x: -128px;
+    background-position-y: -384px;
+}
+.s222 {
+    background-position-x: -160px;
+    background-position-y: -384px;
+}
+.s223 {
+    background-position-x: -192px;
+    background-position-y: -384px;
+}
+.s224 {
+    background-position-x: -224px;
+    background-position-y: -384px;
+}
+.s225 {
+    background-position-x: -256px;
+    background-position-y: -384px;
+}
+.s226 {
+    background-position-x: -288px;
+    background-position-y: -384px;
+}
+.s227 {
+    background-position-x: -320px;
+    background-position-y: -384px;
+}
+.s228 {
+    background-position-x: -352px;
+    background-position-y: -384px;
+}
+.s229 {
+    background-position-x: -384px;
+    background-position-y: -384px;
+}
+.s230 {
+    background-position-x: -416px;
+    background-position-y: -384px;
+}
+.s231 {
+    background-position-x: -448px;
+    background-position-y: -384px;
+}
+.s232 {
+    background-position-x: -480px;
+    background-position-y: -384px;
+}
+.s233 {
+    background-position-x: -512px;
+    background-position-y: -384px;
+}
+.s234 {
+    background-position-x: -544px;
+    background-position-y: -384px;
+}
+.s235 {
+    background-position-x: -0px;
+    background-position-y: -416px;
+}
+.s236 {
+    background-position-x: -32px;
+    background-position-y: -416px;
+}
+.s237 {
+    background-position-x: -64px;
+    background-position-y: -416px;
+}
+.s238 {
+    background-position-x: -96px;
+    background-position-y: -416px;
+}
+.s239 {
+    background-position-x: -128px;
+    background-position-y: -416px;
+}
+.s240 {
+    background-position-x: -160px;
+    background-position-y: -416px;
+}
+.s241 {
+    background-position-x: -192px;
+    background-position-y: -416px;
+}
+.s242 {
+    background-position-x: -224px;
+    background-position-y: -416px;
+}
+.s243 {
+    background-position-x: -256px;
+    background-position-y: -416px;
+}
+.s244 {
+    background-position-x: -288px;
+    background-position-y: -416px;
+}
+.s245 {
+    background-position-x: -320px;
+    background-position-y: -416px;
+}
+.s246 {
+    background-position-x: -352px;
+    background-position-y: -416px;
+}
+.s247 {
+    background-position-x: -384px;
+    background-position-y: -416px;
+}
+.s248 {
+    background-position-x: -416px;
+    background-position-y: -416px;
+}
+.s249 {
+    background-position-x: -448px;
+    background-position-y: -416px;
+}
+.s250 {
+    background-position-x: -480px;
+    background-position-y: -416px;
+}
+.s251 {
+    background-position-x: -512px;
+    background-position-y: -416px;
+}
+.s252 {
+    background-position-x: -544px;
+    background-position-y: -416px;
+}
+.s253 {
+    background-position-x: -0px;
+    background-position-y: -448px;
+}
+.s254 {
+    background-position-x: -32px;
+    background-position-y: -448px;
+}
+.s255 {
+    background-position-x: -64px;
+    background-position-y: -448px;
+}
+.s256 {
+    background-position-x: -96px;
+    background-position-y: -448px;
+}
+.s257 {
+    background-position-x: -128px;
+    background-position-y: -448px;
+}
+.s258 {
+    background-position-x: -160px;
+    background-position-y: -448px;
+}
+.s259 {
+    background-position-x: -192px;
+    background-position-y: -448px;
+}
+.s260 {
+    background-position-x: -224px;
+    background-position-y: -448px;
+}
+.s261 {
+    background-position-x: -256px;
+    background-position-y: -448px;
+}
+.s262 {
+    background-position-x: -288px;
+    background-position-y: -448px;
+}
+.s263 {
+    background-position-x: -320px;
+    background-position-y: -448px;
+}
+.s264 {
+    background-position-x: -352px;
+    background-position-y: -448px;
+}
+.s265 {
+    background-position-x: -384px;
+    background-position-y: -448px;
+}
+.s266 {
+    background-position-x: -416px;
+    background-position-y: -448px;
+}
+.s267 {
+    background-position-x: -448px;
+    background-position-y: -448px;
+}
+.s268 {
+    background-position-x: -480px;
+    background-position-y: -448px;
+}
+.s269 {
+    background-position-x: -512px;
+    background-position-y: -448px;
+}
+.s270 {
+    background-position-x: -544px;
+    background-position-y: -448px;
+}
+.s271 {
+    background-position-x: -0px;
+    background-position-y: -480px;
+}
+.s272 {
+    background-position-x: -32px;
+    background-position-y: -480px;
+}
+.s273 {
+    background-position-x: -64px;
+    background-position-y: -480px;
+}
+.s274 {
+    background-position-x: -96px;
+    background-position-y: -480px;
+}
+.s275 {
+    background-position-x: -128px;
+    background-position-y: -480px;
+}
+.s276 {
+    background-position-x: -160px;
+    background-position-y: -480px;
+}
+.s277 {
+    background-position-x: -192px;
+    background-position-y: -480px;
+}
+.s278 {
+    background-position-x: -224px;
+    background-position-y: -480px;
+}
+.s279 {
+    background-position-x: -256px;
+    background-position-y: -480px;
+}
+.s280 {
+    background-position-x: -288px;
+    background-position-y: -480px;
+}
+.s281 {
+    background-position-x: -320px;
+    background-position-y: -480px;
+}
+.s282 {
+    background-position-x: -352px;
+    background-position-y: -480px;
+}
+.s283 {
+    background-position-x: -384px;
+    background-position-y: -480px;
+}
+.s284 {
+    background-position-x: -416px;
+    background-position-y: -480px;
+}
+.s285 {
+    background-position-x: -448px;
+    background-position-y: -480px;
+}
+.s286 {
+    background-position-x: -480px;
+    background-position-y: -480px;
+}
+.s287 {
+    background-position-x: -512px;
+    background-position-y: -480px;
+}
+.s288 {
+    background-position-x: -544px;
+    background-position-y: -480px;
+}
+.s289 {
+    background-position-x: -0px;
+    background-position-y: -512px;
+}
+.s290 {
+    background-position-x: -32px;
+    background-position-y: -512px;
+}
+.s291 {
+    background-position-x: -64px;
+    background-position-y: -512px;
+}
+.s292 {
+    background-position-x: -96px;
+    background-position-y: -512px;
+}
+.s293 {
+    background-position-x: -128px;
+    background-position-y: -512px;
+}
+.s294 {
+    background-position-x: -160px;
+    background-position-y: -512px;
+}
+.s295 {
+    background-position-x: -192px;
+    background-position-y: -512px;
+}
+.s296 {
+    background-position-x: -224px;
+    background-position-y: -512px;
+}
+.s297 {
+    background-position-x: -256px;
+    background-position-y: -512px;
+}
+.s298 {
+    background-position-x: -288px;
+    background-position-y: -512px;
+}
+.s299 {
+    background-position-x: -320px;
+    background-position-y: -512px;
+}
+.s300 {
+    background-position-x: -352px;
+    background-position-y: -512px;
+}
+.s301 {
+    background-position-x: -384px;
+    background-position-y: -512px;
+}
+.s302 {
+    background-position-x: -416px;
+    background-position-y: -512px;
+}
+.s303 {
+    background-position-x: -448px;
+    background-position-y: -512px;
+}
+.s304 {
+    background-position-x: -480px;
+    background-position-y: -512px;
+}
+.s305 {
+    background-position-x: -512px;
+    background-position-y: -512px;
+}
+.s306 {
+    background-position-x: -544px;
+    background-position-y: -512px;
+}
+.s307 {
+    background-position-x: -0px;
+    background-position-y: -544px;
+}
+.s308 {
+    background-position-x: -32px;
+    background-position-y: -544px;
+}
+.s309 {
+    background-position-x: -64px;
+    background-position-y: -544px;
+}
+.s310 {
+    background-position-x: -96px;
+    background-position-y: -544px;
+}
+.s311 {
+    background-position-x: -128px;
+    background-position-y: -544px;
+}
+.s312 {
+    background-position-x: -160px;
+    background-position-y: -544px;
+}
+.s313 {
+    background-position-x: -192px;
+    background-position-y: -544px;
+}
+.s314 {
+    background-position-x: -224px;
+    background-position-y: -544px;
+}
+.s315 {
+    background-position-x: -256px;
+    background-position-y: -544px;
+}
+.s316 {
+    background-position-x: -288px;
+    background-position-y: -544px;
+}
+.s317 {
+    background-position-x: -320px;
+    background-position-y: -544px;
+}
+.s318 {
+    background-position-x: -352px;
+    background-position-y: -544px;
+}
+.s319 {
+    background-position-x: -384px;
+    background-position-y: -544px;
+}
+.s320 {
+    background-position-x: -416px;
+    background-position-y: -544px;
+}
+.s321 {
+    background-position-x: -448px;
+    background-position-y: -544px;
+}
+.s322 {
+    background-position-x: -480px;
+    background-position-y: -544px;
+}
+.s323 {
+    background-position-x: -512px;
+    background-position-y: -544px;
+}
+.s324 {
+    background-position-x: -544px;
+    background-position-y: -544px;
+}
+.s325 {
+    background-position-x: -0px;
+    background-position-y: -576px;
+}
+.s326 {
+    background-position-x: -32px;
+    background-position-y: -576px;
+}
+.s327 {
+    background-position-x: -64px;
+    background-position-y: -576px;
+}
+.s328 {
+    background-position-x: -96px;
+    background-position-y: -576px;
+}
+.s329 {
+    background-position-x: -128px;
+    background-position-y: -576px;
+}
+.s330 {
+    background-position-x: -160px;
+    background-position-y: -576px;
+}
+.s331 {
+    background-position-x: -192px;
+    background-position-y: -576px;
+}
+.s332 {
+    background-position-x: -224px;
+    background-position-y: -576px;
+}
+.s333 {
+    background-position-x: -256px;
+    background-position-y: -576px;
+}
+.s334 {
+    background-position-x: -288px;
+    background-position-y: -576px;
+}
+.s335 {
+    background-position-x: -320px;
+    background-position-y: -576px;
+}
+.s336 {
+    background-position-x: -352px;
+    background-position-y: -576px;
+}
+.s337 {
+    background-position-x: -384px;
+    background-position-y: -576px;
+}
+.s338 {
+    background-position-x: -416px;
+    background-position-y: -576px;
+}
+.s339 {
+    background-position-x: -448px;
+    background-position-y: -576px;
+}
+.s340 {
+    background-position-x: -480px;
+    background-position-y: -576px;
+}
+.s341 {
+    background-position-x: -512px;
+    background-position-y: -576px;
+}
+.s342 {
+    background-position-x: -544px;
+    background-position-y: -576px;
+}
