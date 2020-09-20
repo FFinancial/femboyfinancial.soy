@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title><cfoutput># pagename #</cfoutput> - FemboyFinancial Online Webportal</title>
+		<title><cfoutput># pagetitle #</cfoutput> - FemboyFinancial Online Webportal</title>
 		<link rel="stylesheet" href="/css/main.css">
 	</head>
 	<body>
