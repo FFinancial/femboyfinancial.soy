@@ -1,0 +1,47 @@
+html, body {
+    margin: 0;
+    width: 640px;
+    height: 480px;
+}
+body {
+    background-image: url('/assets/ice.gif');
+}
+.toplinks a {
+    margin: 0 6px;
+    font-size: 12px;
+}
+.copyright {
+    color: #0066CC;
+    margin: 0;
+}
+.footer {
+    margin-top: 20px;
+    font-size: 12px;
+    text-align: center;
+}
+.footerlinks a {
+    margin: 0 24px;
+    font-size: 12px;
+}
+hr {
+    border: 3px solid #EE2D24;
+    margin: 8px;
+    margin-bottom: 16px;
+}
+table {
+    margin: 0 10px;
+}
+
+/* Main page links */
+td h4 {
+    margin: 0;
+}
+td img {
+    display: inline;
+    float: left;
+    margin-right: 4px;
+}
+td span {
+    color: #3A7FF1;
+    font-size: 12px;
+}
