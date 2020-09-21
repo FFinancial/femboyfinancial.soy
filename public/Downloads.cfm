@@ -17,8 +17,10 @@
                 margin: 65px 75px;
                 height: 200px;
             }
-            .dllist h6 {
+            .dllist p, .dllist h6 {
                 margin: 0;
+            }
+            .dllist h6 {
                 margin-bottom: 10px;
             }
             .dllist img {
