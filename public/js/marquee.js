@@ -2,7 +2,7 @@ var marq = document.querySelector('marquee');
 var timeStr, stockPriceDelta, stockPriceDirection;
 var i = 0;
 function updateTimestamp() {
-    timeStr = new Date().toLocaleTimeString();
+    timeStr = new Date().toLocaleString();
 }
 function updateStockPrice() {
     stockPriceDelta = Math.floor(Math.random() * 10000) / 100;
