@@ -6,6 +6,8 @@
 
 - Web server (recommended: IIS 5.0)
 
+- GraphicsMagick (for automatic dithering)
+
 - A computer from 2001, preferably running 32-bit XP
 
 ## Browser Compatibility
