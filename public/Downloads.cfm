@@ -35,8 +35,21 @@
     <body>
         <img width="177" height="112" src="/assets/DownloadCentre.gif">
         <div class="dllist">
+
+			<cfset filename = expandpath("./downloads/FemboyBanking.exe")>
+			<cftry>
+				<cffile file = "#filename#" action = "read" variable = "content">
+				<cfset sizeKb = Round(Len(content) / 1000)>
+				<cfcatch type="any">
+					<cfoutput>
+						<p>#cfcatch.message#</p>
+						<p>#cfcatch.detail#</p>
+					</cfoutput>
+				</cfcatch>
+			</cftry>
+
             <h6>FemBanking Desktop Application</h6>
-            <p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyBanking.exe">Download (36.5 KB)</a></p>
+            <p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyBanking.exe">Download (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
         </div>
 
 <cfinclude template="../templates/Footer.cfm">
