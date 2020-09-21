@@ -7,11 +7,26 @@
         <style>
             body {
                 background-image: url('/assets/Downloads.gif');
+                background-repeat: no-repeat;
+                color: #EE2D24;
+            }
+            .copyright, .footerlinks a {
                 color: #EE2D24;
             }
             .dllist {
                 margin: 65px 75px;
                 height: 200px;
+            }
+            .dllist h6 {
+                margin: 0;
+                margin-bottom: 10px;
+            }
+            .dllist img {
+                image-rendering: crisp-edges;
+            }
+            .dllist a {
+                color: #EE2D24;
+                font-size: 9px;
             }
         </style>
     </head>
