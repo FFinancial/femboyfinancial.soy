@@ -7,6 +7,7 @@
         <style>
             body {
                 background-image: url('/assets/Downloads.gif');
+				background-color: #1600FF;
                 background-repeat: no-repeat;
                 color: #EE2D24;
             }
@@ -23,9 +24,6 @@
             .dllist h6 {
                 margin-bottom: 10px;
             }
-            .dllist img {
-                image-rendering: crisp-edges;
-            }
             .dllist a {
                 color: #EE2D24;
                 font-size: 9px;
@@ -36,7 +34,7 @@
         <img width="177" height="112" src="/assets/DownloadCentre.gif">
         <div class="dllist">
 
-			<cfset filename = expandpath("./downloads/FemboyBanking.exe")>
+			<cfset filename = expandpath("FemboyBanking.exe")>
 			<cftry>
 				<cffile file = "#filename#" action = "read" variable = "content">
 				<cfset sizeKb = Round(Len(content) / 1000)>
@@ -52,4 +50,4 @@
             <p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyBanking.exe">Download (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
         </div>
 
-<cfinclude template="../templates/Footer.cfm">
+<cfinclude template="../../templates/Footer.cfm">

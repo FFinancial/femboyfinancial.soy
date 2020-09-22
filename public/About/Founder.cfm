@@ -1,5 +1,5 @@
 <cfset pagetitle = "Words from our Founder">
-<cfinclude template="../templates/Header.cfm">
+<cfinclude template="../../templates/Header.cfm">
 
 <style>
 	.content {
@@ -40,4 +40,4 @@
 	</blockquote>
 </div>
 
-<cfinclude template="../templates/Footer.cfm">
+<cfinclude template="../../templates/Footer.cfm">

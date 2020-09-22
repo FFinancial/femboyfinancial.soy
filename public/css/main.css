@@ -1,7 +1,10 @@
 html, body {
     margin: 0;
     width: 640px;
-    height: 480px;
+	height: 480px;
+}
+img {
+	image-rendering: crisp-edges;
 }
 body {
     background-image: url('/assets/ice.gif');
@@ -41,7 +44,9 @@ td img {
     float: left;
     margin-right: 4px;
 }
-td span {
+td {
     color: #3A7FF1;
+}
+td span {
     font-size: 12px;
 }
