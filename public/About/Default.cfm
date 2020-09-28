@@ -10,7 +10,7 @@
         </td>
         <td valign="top" width="50%">
             <h4><a href="/Live">Development team live feed</a></h4>
-            <img width="75" height="75" src="/Live/Thumb.gif">
+            <img width="80" height="60" src="/Live/Thumb.jpg">
         </td>
     </tr>
     <tr>
