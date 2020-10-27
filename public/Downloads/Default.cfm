@@ -48,6 +48,24 @@
 
             <h6>FemBanking Desktop Application</h6>
             <p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyBanking.exe">Download (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
+
+			<cfset filename = expandpath("FemboyCliquere.exe")>
+			<cftry>
+				<cffile file = "#filename#" action = "read" variable = "content">
+				<cfset sizeKb = Round(Len(content) / 1000)>
+				<cfcatch type="any">
+					<cfoutput>
+						<p>#cfcatch.message#</p>
+						<p>#cfcatch.detail#</p>
+					</cfoutput>
+				</cfcatch>
+			</cftry>
+
+            <h6>Femboy Cliquere</h6>
+			<p>The FUN clicking game that's taking company break rooms by storm!</p>
+            <p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyCliquere.exe">Download V1.0 (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
+
+
         </div>
 
 <cfinclude template="../../templates/Footer.cfm">
