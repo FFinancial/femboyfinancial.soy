@@ -18,7 +18,10 @@
             <h4><a href="/About/MeetTheTeam.cfm">Meet the team</a></h4>
             <span>Find out who makes our business run, their contribution and their story.</span>
         </td>
-		<td valign="top" width="50%"></td>
+		<td valign="top" width="50%">
+			<h4><a href="/About/VehicleReport.cfm">Company vehicles</a></h4>
+			<span>Learn more about the cars behind our Femboy fleet.</span>
+		</td>
     </tr>
     <tr>
         <td valign="top" width="50%">
