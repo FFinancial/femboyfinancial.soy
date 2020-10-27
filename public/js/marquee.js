@@ -16,5 +16,7 @@ function renderMarquee() {
     marq.innerHTML = timeStr + " - FEM <span style=\"color:" + stockPriceColor + ";\">" + stockPriceArrow + " " + stockPriceDelta + "</span>";
     i++;
 }
-setInterval(renderMarquee, 1000);
-renderMarquee();
+if (marq) {
+	setInterval(renderMarquee, 1000);
+	renderMarquee();
+}
