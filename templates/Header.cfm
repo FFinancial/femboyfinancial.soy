@@ -4,6 +4,8 @@
 		<meta charset="utf-8">
 		<title><cfoutput># pagetitle #</cfoutput> - FemboyFinancial Online Webportal</title>
 		<link rel="stylesheet" href="/css/main.css">
+		<link rel="shortcut icon" href="/favicon.ico" type="image/icon">
+		<link rel="icon" type="image/icon" href="/favicon.ico">
 	</head>
 	<body>
 		<img height="69" width="640" src="/assets/Welcome.gif">

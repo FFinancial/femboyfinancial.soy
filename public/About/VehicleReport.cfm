@@ -88,8 +88,11 @@
 					<cfgraphdata item="2020-09-12" value=116033.5>
 					<cfgraphdata item="2020-10-18" value=116089.9>
 					<cfgraphdata item="2020-10-21" value=116116.4>
+					<cfgraphdata item="2020-10-26" value=116150>
+					<cfgraphdata item="2020-11-04" value=116356.7>
 				</cfgraph>
 			</p>
+			<p>Make sure to check back regularly for updates!</p>
 			
 			<script type="text/javascript">
 				if (!swfobject.hasFlashPlayerVersion('1'))
