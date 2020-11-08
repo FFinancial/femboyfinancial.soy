@@ -90,6 +90,8 @@
 					<cfgraphdata item="2020-10-21" value=116116.4>
 					<cfgraphdata item="2020-10-26" value=116150>
 					<cfgraphdata item="2020-11-04" value=116356.7>
+					<cfgraphdata item="2020-11-06" value=116427.3>
+					<cfgraphdata item="2020-11-07" value=116451.7>
 				</cfgraph>
 			</p>
 			<p>Make sure to check back regularly for updates!</p>
