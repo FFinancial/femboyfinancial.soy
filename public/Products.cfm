@@ -18,13 +18,19 @@
     </tr>
     <tr>
         <td valign="top" width="50%">
-            <h4>Easy Interest Checking</h4>
-            <span>Is our highest rated interest checking account for consumers. Make the most of your hard earned wages with this Premier Checking Account. Opening an account over two thousand Dollars will make you eligable for our promotion! When you activate your ABM card you will receive three hundred dollars! See a branch for details.</span>
+            <h4>Femboy Cliquere</h4>
+            <span>
+				Experience the FUN clicking game that's taking company break rooms by storm!<br>
+				<a href="/Downloads">Download</a>
+			</span>
         </td>
-		<td valign="top" width="50%">
-			<h4>Easy Credit Line</h4>
-			<span>Gone are the days of credit score based decision making regarding extending credit! Using a revolutionary personality testing software we make a decision based soley on your characteristics as a person. This has tailored a 89% approval rating among adults.</span>
-		</td>
+        <td valign="top" width="50%">
+            <h4>Femboy Geometry</h4>
+            <span>
+				Test your OpenGLel™ compatibility with this small application. Comes with <strong>5</strong> animations that you can enjoy for hours on end!<br>
+				<a href="/Downloads">Download</a>
+			</span>
+        </td>
     </tr>
 </tbody>
 </table>

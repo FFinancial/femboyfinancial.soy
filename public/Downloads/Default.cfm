@@ -47,6 +47,7 @@
 			</cftry>
 
             <h6>FemBanking Desktop Application</h6>
+			<p>Requires Windows XP or newer.</p>
             <p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyBanking.exe">Download (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
 
 			<br>
@@ -64,8 +65,26 @@
 			</cftry>
 
             <h6>Femboy Cliquere</h6>
-			<p>Experience the FUN clicking game that's taking company break rooms by storm!</p>
-            <p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyCliquere.exe">Download V1.0 (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
+			<p>Requires Windows 95 or newer.</p>
+			<p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyCliquere.exe">Download V1.0 (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
+
+			<br>
+			
+			<cfset filename = expandpath("FemboyGeometry_1.0.0.rar")>
+			<cftry>
+				<cffile file = "#filename#" action = "read" variable = "content">
+				<cfset sizeKb = Round(Len(content) / 1000)>
+				<cfcatch type="any">
+					<cfoutput>
+						<p>#cfcatch.message#</p>
+						<p>#cfcatch.detail#</p>
+					</cfoutput>
+				</cfcatch>
+			</cftry>
+
+            <h6>Femboy Geometry</h6>
+			<p>Requires Windows 98 SE™ or newer.</p>
+            <p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyGeometry_1.0.0.rar">Download V1.0 (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
 
 
         </div>

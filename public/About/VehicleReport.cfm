@@ -79,29 +79,45 @@
 			
 			<p class="graph">
 				<cfgraph type="Line" backgroundcolor="white" title="Vehicular Mileage Log" valueColumn="Total Miles Travelled" itemColumn="Unix Timestamppe"
-						 fileFormat="Flash" titleFont="Times" lineColor="red" graphHeight="300" itemLabelFont="Times" scaleFrom="116010" gridLines=5>
+						 fileFormat="jpg" titleFont="Times" lineColor="red" graphHeight="300" itemLabelFont="Times" scaleFrom="116010" gridLines=5>
+					<cfgraphdata item="2020-06-27" value=116021>
 					<cfgraphdata item="2020-07-31" value=116021>
 					<cfgraphdata item="2020-08-21" value=116023.3>
 					<cfgraphdata item="2020-08-23" value=116023.4>
 					<cfgraphdata item="2020-09-04" value=116028>
 					<cfgraphdata item="2020-09-11" value=116032.3>
 					<cfgraphdata item="2020-09-12" value=116033.5>
+					<cfgraphdata item="2020-10-14" value=116041>
 					<cfgraphdata item="2020-10-18" value=116089.9>
 					<cfgraphdata item="2020-10-21" value=116116.4>
 					<cfgraphdata item="2020-10-26" value=116150>
 					<cfgraphdata item="2020-11-04" value=116356.7>
+					<cfgraphdata item="2020-11-05" value=116386>
 					<cfgraphdata item="2020-11-06" value=116427.3>
 					<cfgraphdata item="2020-11-07" value=116451.7>
+					<cfgraphdata item="2020-11-09" value=116470.6>
+					<cfgraphdata item="2020-11-10" value=116518.7>
+					<cfgraphdata item="2020-11-12" value=116549.5>
+					<cfgraphdata item="2020-11-14" value=116553.7>
+					<cfgraphdata item="2020-11-15" value=116584.8>
+					<cfgraphdata item="2020-11-16" value=116627.3>
+					<cfgraphdata item="2020-11-17" value=116726.4>
+					<cfgraphdata item="2020-11-19" value=116800.6>
+					<cfgraphdata item="2020-11-21" value=116806>
+					<cfgraphdata item="2020-11-22" value=116918.2>
+					<cfgraphdata item="2020-11-24" value=116940>
+					<cfgraphdata item="2020-11-25" value=116970>
+					<cfgraphdata item="2020-11-29" value=116998.3>
+					<cfgraphdata item="2020-11-30" value=117002.3>
+					<cfgraphdata item="2020-12-01" value=117095>
+					<cfgraphdata item="2020-12-04" value=117223.9>
+					<cfgraphdata item="2020-12-05" value=117395.1>
+					<cfgraphdata item="2020-12-06" value=117407.9>
+					<cfgraphdata item="2020-12-12" value=117460.5>
+					<cfgraphdata item="2020-12-14" value=117518.9>
 				</cfgraph>
 			</p>
 			<p>Make sure to check back regularly for updates!</p>
-			
-			<script type="text/javascript">
-				if (!swfobject.hasFlashPlayerVersion('1'))
-				{
-					document.querySelector('.graph').innerHTML = '<strong>You must have Flash Player installed to view this content.</strong>';
-				}
-			</script>
 			
         </div>
 

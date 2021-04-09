@@ -4,7 +4,7 @@ html, body {
 	height: 480px;
 }
 img {
-	image-rendering: crisp-edges;
+	image-rendering: /*crisp-edges*/ pixelated;
 }
 body {
     background-image: url('/assets/ice.gif');
