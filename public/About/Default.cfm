@@ -36,5 +36,4 @@
 </tbody>
 </table>
 
-
 <cfinclude template="../../templates/Footer.cfm">

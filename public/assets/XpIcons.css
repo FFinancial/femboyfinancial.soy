@@ -2,6 +2,7 @@
     width: 32px;
     height: 32px;
     background-image: url('./XpIcons.png');
+	display: inline-block;
 }
 
 .s1 {
