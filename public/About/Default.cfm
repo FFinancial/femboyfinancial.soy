@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td valign="top" width="50%">
-            <h4><a href="/About/MeetTheTeam.cfm">Meet the team</a></h4>
+            <h4><a href="/About/Team.cfm">Meet the team</a></h4>
             <span>Find out who makes our business run, their contribution and their story.</span>
         </td>
 		<td valign="top" width="50%">
