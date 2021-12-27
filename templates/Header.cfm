@@ -17,7 +17,7 @@
 				<a href="/">Home Page</a>
 			</cfif>
 			<cfif cgi.script_name IS "/Events.cfm">
-				<a style="font-weight: bold;" href="/">Home Page</a>
+				<a style="font-weight: bold;" href="/">New Company Events</a>
 			<cfelse>
 				<a href="/Events.cfm">New Company Events</a>
 			</cfif>
