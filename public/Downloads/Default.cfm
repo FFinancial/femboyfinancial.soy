@@ -46,10 +46,30 @@
 				</cfcatch>
 			</cftry>
 
-            <h6>FemBanking Desktop Application</h6>
-			<p>Requires Windows XP or newer.</p>
-            <p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyBanking.exe">Download (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
+			<div style="float: left;width:200px;">
+				<h6>FemBanking Desktop Application</h6>
+				<p>Requires Windows XP or newer.</p>
+				<p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyBanking.exe">Download (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
+			</div>
+			
+			<cfset filename = expandpath("FemboyInstaller.msi")>
+			<cftry>
+				<cffile file = "#filename#" action = "read" variable = "content">
+				<cfset sizeKb = Round(Len(content) / 1000)>
+				<cfcatch type="any">
+					<cfoutput>
+						<p>#cfcatch.message#</p>
+						<p>#cfcatch.detail#</p>
+					</cfoutput>
+				</cfcatch>
+			</cftry>
 
+			<div style="margin-left:240px;width:240px;">
+				<h6>FemboyWatchdog</h6>
+				<p>Requires Windows XP or newer.</p>
+				<p><img width="16" height="16" src="/assets/DownloadIcon.gif"> <a href="/downloads/FemboyInstaller.msi">Download V0.4.1 (<cfoutput>#sizeKb#</cfoutput> KB)</a></p>
+			</div>
+			
 			<br>
 			
 			<cfset filename = expandpath("FemboyCliquere.exe")>
