@@ -14,9 +14,9 @@
 			<span>+1 925-765-8478</span><br>
 			<br>
 			<span>By webmail:</span><br>
-			<span>mylesl@howfeed.biz</span><br>
-			<span>vincentmiannelli@howfeed.biz</span><br>
-			<span>webmaster@howfeed.biz</span>
+			<span>mylesl@femboyfinancial.jp</span><br>
+			<span>vincentmiannelli@femboyfinancial.jp</span><br>
+			<span>james@femboyfinancial.jp</span>
         </td>
         <td valign="top" width="50%" style="float: right;">
 			<img src="/assets/ringring.gif" height="100">
